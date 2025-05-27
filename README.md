@@ -7,4 +7,5 @@ TypeScript と React を使用したリバーシ（オセロ）アプリのサ�
 npm install
 npm run build
 npm test
+node server.js
 ```
