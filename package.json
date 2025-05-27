@@ -5,6 +5,7 @@
     "build": "tsc",
     "test": "jest",
     "start": "node server.js"
+
   },
   "devDependencies": {
     "@types/jest": "^29.5.2",
